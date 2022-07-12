@@ -1,0 +1,18 @@
+genre,artist_name,track_name,track_id,popularity,acousticness,danceability,duration_ms,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,valence
+Dance,Bebe Rexha,Pillow,5MrNSHoWvFKjBQ7TRMkp9I,55.0,0.133,0.622,216467.0,0.476,0.0,F#,0.269,-8.943,Minor,0.0378,77.023,4/4,0.213
+Hip-Hop,Kendrick Lamar,HUMBLE.,7KXjTSCq5nL1LoYtL7XAwS,86.0,0.000282,0.908,177000.0,0.621,5.39e-05,C#,0.0958,-6.638,Minor,0.102,150.011,4/4,0.421
+Hip-Hop,Eminem,Superman,4woTEX1wYOTGDqNXuavlRC,73.0,0.015,0.803,350227.0,0.753,0.0,E,0.204,-3.542,Minor,0.0625,129.998,4/4,0.557
+Reggae,Alborosie,Kingston Town,2OHQhOiGIYaXqqJVIMpNrF,63.0,0.0381,0.788,192400.0,0.773,0.0,A,0.35,-5.272,Minor,0.099,73.978,4/4,0.584
+Rap,Tinashe,Throw A Fit,7D8aQaRzoi9Qzz5yerVK5b,69.0,0.00597,0.888,158757.0,0.586,0.0365,C,0.153,-6.745,Major,0.0604,150.051,4/4,0.401
+Hip-Hop,Eminem,Lose Yourself,77Ft1RJngppZlq59B6uP0z,50.0,0.00922,0.689,320627.0,0.735,0.00072,D,0.365,-4.545,Major,0.267,171.403,4/4,0.059
+Hip-Hop,KB,Not Today Satan,4sS2tlrtRIlzgSNiQympSe,55.0,0.0611,0.821,246545.0,0.706,2.73e-06,C#,0.185,-3.376,Major,0.044,130.017,4/4,0.458
+Reggae,Iration,Get Back To Me,0RonPm15jcfcPPNtS3ZMSG,44.0,0.0188,0.716,192813.0,0.645,6.79e-05,G,0.142,-5.51,Major,0.0353,74.061,4/4,0.821
+Rap,Drake,God's Plan,6DCZcSspjsKoFjzjrWoCdn,89.0,0.0332,0.754,198973.0,0.449,8.29e-05,G,0.552,-9.211,Major,0.109,77.169,4/4,0.357
+Pop,The Black Eyed Peas,Pump It,6btyEL6NwUa97Nex9cZFvo,68.0,0.0109,0.646,213067.0,0.923,0.0,A,0.746,-3.108,Major,0.169,153.659,4/4,0.74
+Rap,Kanye West,POWER,2gZUPNdnz5Y45eiGxpHGSc,79.0,0.0162,0.543,292093.0,0.915,0.0,C,0.744,-4.746,Minor,0.113,153.998,4/4,0.577
+Rock,Twenty One Pilots,Heathens,6i0V12jOa3mr6uu4WYhUBr,82.0,0.0841,0.732,195920.0,0.396,3.58e-05,E,0.105,-9.348,Minor,0.0286,90.024,4/4,0.548
+Children’s Music,Nirvana,Smells Like Teen Spirit,5ghIJDpPoe3CfHMGu71E6T,75.0,2.86e-05,0.516,301920.0,0.906,0.000101,C#,0.105,-4.525,Major,0.0658,116.775,4/4,0.728
+Jazz,Kim Waters,Until Dawn,77L7xBUZxLxJmobpYz2UA3,30.0,0.0686,0.677,299800.0,0.542,0.0204,G,0.0784,-9.382,Minor,0.0327,90.013,4/4,0.609
+R&B,The Weeknd,Often - Kygo Remix,27NV2KxoQ8WuLMqlTDI61F,66.0,0.123,0.523,234400.0,0.491,0.0,G,0.331,-9.876,Minor,0.0491,80.156,4/4,0.408
+Reggae,Rebelution,Day by Day,1hQgDJSeNOWwV22vxDrqHN,37.0,0.0067,0.753,184707.0,0.841,0.0,E,0.146,-6.435,Minor,0.0306,105.081,4/4,0.387
+Indie,Anna Clendening,Bend & Break,2S7r4plfiCzvwo0tHtdCIY,54.0,0.194,0.603,158805.0,0.615,1.11e-05,A#,0.0866,-8.549,Minor,0.324,99.857,4/4,0.485
